@@ -82,7 +82,7 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm Prabhjot Singh. I'm a Web Developer. I studied CompSci at Lyallpur khalsa College opf Technical campus, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "Hello! I'm Prabhjot Singh. I'm a Web Developer. I studied CompSci at Lyallpur khalsa College of Technical campus, I enjoy long rides on the mountains, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
     skills:
         {
             proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3',],
