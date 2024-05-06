@@ -136,8 +136,8 @@ export const info = {
         // },
         {
             title: "Myntra Clone",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            live: "https://cloned-virid.vercel.app",
+            source: "https://github.com/ijotprabh",
             image: mock5
         }
     ]
