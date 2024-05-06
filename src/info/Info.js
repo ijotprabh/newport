@@ -59,7 +59,7 @@ export const info = {
             label: 'facebook'
         },
         {
-            link: "https://instagram.com/ijotprabh",
+            link: "https://instagram.com/ijotprabh/",
             icon: 'fa fa-instagram',
             label: 'instagram'
         },
